@@ -1,0 +1,7 @@
+.btn {
+  padding: 10px;
+  background: #FF9800;
+  margin: 10px 20px;
+  border: 1px outset navajowhite;
+  cursor: pointer;
+}
